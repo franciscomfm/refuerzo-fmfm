@@ -107,3 +107,5 @@ Ejercicio 8 crea el segundo tag con el comando "git tag v0.2 -m "segunda version
 
 
 Ejercicio 9 lista de distintos commit con sus ramas y sus tags con el comando "git log --oneline".
+
+![](https://github.com/franciscomfm/refuerzo-fmfm/blob/master/imagenes%20para%20tarea%204y5%20refurzo/Tarea%205.%20Refuerzo%20github/Captura%20de%20pantalla%202021-02-18%20135254.png)
